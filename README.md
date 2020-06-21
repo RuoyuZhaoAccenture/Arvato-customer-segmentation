@@ -3,7 +3,7 @@
 ## Capstone Final Project
 ### Arvato Finacial Solutions: Customer Segmentation Analysis and Prediction for Mail-Order Company
 
-This git repository contains python notebooks and project reports for "Arvato Finacial Solutions: Customer Segmentation Analysis and Prediction for Mail-Order Company". 
+This git repository contains python notebook and project report for "Arvato Finacial Solutions: Customer Segmentation Analysis and Prediction for Mail-Order Company". 
 This is as part of the final Capstone project for Udacity Machine Learning Engineer Nanodegree Course.
 
 
